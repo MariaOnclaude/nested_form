@@ -56,7 +56,7 @@ module NestedForm
     end
 
     def fields_for_nested_model(name, object, options, block)
-      @template.content_tag(:div, super, :class => 'fields')
+      super
     end
   end
 end
