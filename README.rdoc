@@ -1,4 +1,6 @@
 = Nested Form
+===== THIS IS AN OLD VERSION OF THE GEM, SPECIFICALLY CUSTOMIZED FOR THE ONCLAUDE PROJECT.
+===== Please refer to the official gem at: https://github.com/ryanb/nested_form.
 
 {<img src="https://secure.travis-ci.org/ryanb/nested_form.png?branch=master" alt="Build Status" />}[http://travis-ci.org/ryanb/nested_form]
 
